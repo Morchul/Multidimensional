@@ -1,0 +1,57 @@
+Fonts:
+Robo Sapien by Iconian Fonts (dafont.com) https://www.dafont.com/robo-sapien.font
+Space Age by Justin Callaghan (dafont.com) https://www.dafont.com/space-age.font
+
+Sounds:
+From Soundsnap
+
+Menu:
+Space Harmony (Space)
+
+Level music:
+Retro Gamer (Space)
+Electro Motion (Space)
+Passport (Adventure)
+
+Done:
+Destroy meteorite after animation is finished
+Sound for scan, win and movement (Meteorite movement)
+Camera stops if targetline reached
+Credits Menu
+UFO oben/unten bewegen
+Wurmloch/Dimensionsportal
+Speaker icon
+2ter meteorit typ
+Background movement
+Schriften und Button anpassen
+Laser skalieren & rotieren
+Explosion UFO
+2. Dimension meteorit zerstört
+moving meteorite
+	Destroyed by contact
+	Some wave in second dimension to see
+
+
+
+Level Design:
+- Copy Scene with Ctrl + Shift + S
+
+- Paint First and Second Dimension
+- (It might help to disable SecondDimension)
+
+- Add Resources and Meteorites to LevelElements
+
+- Set TargetLine to the end
+- Set the Level Index in GameController
+
+- Add Scene under Assets -> Levels -> Levels
+- Add Scene under File -> Build Settings -> Scenes In Build
+
+You can change:
+- Camera movespeed (adjust background move speed as well)
+
+Global changes:
+- UFO
+	Scans
+	Cooldowns
+	Speed

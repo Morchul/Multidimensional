@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 08d1005da2384984badd689c85121b7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1684906503820376448
+    second: Tiles_Stone_with_holes_v02_0
+  - first:
+      213: 6965789743312113380
+    second: Tiles_Stone_with_holes_v02_1
+  - first:
+      213: -2406975985230355329
+    second: Tiles_Stone_with_holes_v02_2
+  - first:
+      213: -8001913676606331735
+    second: Tiles_Stone_with_holes_v02_3
+  - first:
+      213: 5902447417159795241
+    second: Tiles_Stone_with_holes_v02_4
+  - first:
+      213: 3108762258466759188
+    second: Tiles_Stone_with_holes_v02_5
+  - first:
+      213: -3956418375514548040
+    second: Tiles_Stone_with_holes_v02_6
+  - first:
+      213: 4070616393709511035
+    second: Tiles_Stone_with_holes_v02_7
+  - first:
+      213: 6656487653290947915
+    second: Tiles_Stone_with_holes_v02_8
+  - first:
+      213: -7922030897461102486
+    second: Tiles_Stone_with_holes_v02_9
+  - first:
+      213: -1537995688021388555
+    second: Tiles_Stone_with_holes_v02_10
+  - first:
+      213: 6135346340396514576
+    second: Tiles_Stone_with_holes_v02_11
+  - first:
+      213: 15636860184307021
+    second: Tiles_Stone_with_holes_v02_12
+  - first:
+      213: -7032197553080834966
+    second: Tiles_Stone_with_holes_v02_13
+  - first:
+      213: 4260557865250089970
+    second: Tiles_Stone_with_holes_v02_14
+  - first:
+      213: -1738412013030117119
+    second: Tiles_Stone_with_holes_v02_15
+  - first:
+      213: -4962851869226759894
+    second: Tiles_Stone_with_holes_v02_16
+  - first:
+      213: -6929237268957831828
+    second: Tiles_Stone_with_holes_v02_17
+  - first:
+      213: -8001655108670914784
+    second: Tiles_Stone_with_holes_v02_18
+  - first:
+      213: 7998373875683414018
+    second: Tiles_Stone_with_holes_v02_19
+  - first:
+      213: 4842712645553335788
+    second: Tiles_Stone_with_holes_v02_20
+  - first:
+      213: -5096293857196750335
+    second: Tiles_Stone_with_holes_v02_21
+  - first:
+      213: 7021216369125012778
+    second: Tiles_Stone_with_holes_v02_22
+  - first:
+      213: -8103280973937812693
+    second: Tiles_Stone_with_holes_v02_23
+  - first:
+      213: -4842454593740731400
+    second: Tiles_Stone_with_holes_v02_24
+  - first:
+      213: -8633424020881083446
+    second: Tiles_Stone_with_holes_v02_25
+  - first:
+      213: -6807796789156611093
+    second: Tiles_Stone_with_holes_v02_26
+  - first:
+      213: 1533152901599266649
+    second: Tiles_Stone_with_holes_v02_27
+  - first:
+      213: 1123018515150909957
+    second: Tiles_Stone_with_holes_v02_28
+  - first:
+      213: -3921484442221482782
+    second: Tiles_Stone_with_holes_v02_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08975f7c98df16710800000000000000
+      internalID: 1684906503820376448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee8d2e7dd47ba060800000000000000
+      internalID: 6965789743312113380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74e2791814b89ed0800000000000000
+      internalID: -2406975985230355329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a42a8638ed73f090800000000000000
+      internalID: -8001913676606331735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224b3547a4b9e150800000000000000
+      internalID: 5902447417159795241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126d0b9dca842b20800000000000000
+      internalID: 3108762258466759188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b890a0137af719c0800000000000000
+      internalID: -3956418375514548040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71efe30b0cbd7830800000000000000
+      internalID: 4070616393709511035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b453e2ac048906c50800000000000000
+      internalID: 6656487653290947915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6879291fda4f0290800000000000000
+      internalID: -7922030897461102486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f217650211f7aae0800000000000000
+      internalID: -1537995688021388555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db3597df0252550800000000000000
+      internalID: 6135346340396514576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4520b834ad873000800000000000000
+      internalID: 15636860184307021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ee3a659d986e90800000000000000
+      internalID: -7032197553080834966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6a371eca802b30800000000000000
+      internalID: 4260557865250089970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10171121c7befd7e0800000000000000
+      internalID: -1738412013030117119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290bdde488602bb0800000000000000
+      internalID: -4962851869226759894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dde53aa6766df90800000000000000
+      internalID: -6929237268957831828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ffa70c21964f090800000000000000
+      internalID: -8001655108670914784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dfd8a9aeeffe60800000000000000
+      internalID: 7998373875683414018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedaf7b4e75c43340800000000000000
+      internalID: 4842712645553335788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a48cafcb35649b0800000000000000
+      internalID: -5096293857196750335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25bad4761f507160800000000000000
+      internalID: 7021216369125012778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b514123ec5b8f80800000000000000
+      internalID: -8103280973937812693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb002314352cccb0800000000000000
+      internalID: -4842454593740731400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3fe08489aef2880800000000000000
+      internalID: -8633424020881083446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7647b3e8d581a0800000000000000
+      internalID: -6807796789156611093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9570f26e07ad64510800000000000000
+      internalID: 1533152901599266649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b1c7b363c59f00800000000000000
+      internalID: 1123018515150909957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_with_holes_v02_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecea2d3da61499c0800000000000000
+      internalID: -3921484442221482782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

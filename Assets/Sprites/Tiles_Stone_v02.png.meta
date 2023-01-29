@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 46d451d32b9e4184d818e3616219214e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7770028398663748308
+    second: Tiles_Stone_v02_0
+  - first:
+      213: -4428625713101615775
+    second: Tiles_Stone_v02_1
+  - first:
+      213: 3012088454185876186
+    second: Tiles_Stone_v02_2
+  - first:
+      213: -3946804160633085650
+    second: Tiles_Stone_v02_3
+  - first:
+      213: 3602875323033657763
+    second: Tiles_Stone_v02_4
+  - first:
+      213: -7514022372020271813
+    second: Tiles_Stone_v02_5
+  - first:
+      213: -1367534498640018391
+    second: Tiles_Stone_v02_6
+  - first:
+      213: 6434058284948238626
+    second: Tiles_Stone_v02_7
+  - first:
+      213: 7933892846896731340
+    second: Tiles_Stone_v02_8
+  - first:
+      213: -5703883006189378321
+    second: Tiles_Stone_v02_9
+  - first:
+      213: -1633510011988641034
+    second: Tiles_Stone_v02_10
+  - first:
+      213: -454052367740324780
+    second: Tiles_Stone_v02_11
+  - first:
+      213: -683096393131211742
+    second: Tiles_Stone_v02_12
+  - first:
+      213: -599555612785957913
+    second: Tiles_Stone_v02_13
+  - first:
+      213: -4916943727188173519
+    second: Tiles_Stone_v02_14
+  - first:
+      213: 8991794378281635000
+    second: Tiles_Stone_v02_15
+  - first:
+      213: -6142016828284350072
+    second: Tiles_Stone_v02_16
+  - first:
+      213: 6179824129875006823
+    second: Tiles_Stone_v02_17
+  - first:
+      213: 7824794951924951562
+    second: Tiles_Stone_v02_18
+  - first:
+      213: -5003169104286056067
+    second: Tiles_Stone_v02_19
+  - first:
+      213: 9108492273899995980
+    second: Tiles_Stone_v02_20
+  - first:
+      213: -782786853750610797
+    second: Tiles_Stone_v02_21
+  - first:
+      213: -7916513536051403450
+    second: Tiles_Stone_v02_22
+  - first:
+      213: -8079178623079169215
+    second: Tiles_Stone_v02_23
+  - first:
+      213: 2077811580453312350
+    second: Tiles_Stone_v02_24
+  - first:
+      213: -2332424208344400557
+    second: Tiles_Stone_v02_25
+  - first:
+      213: -1869226815171363462
+    second: Tiles_Stone_v02_26
+  - first:
+      213: 5752396787795672177
+    second: Tiles_Stone_v02_27
+  - first:
+      213: -572705137477732179
+    second: Tiles_Stone_v02_28
+  - first:
+      213: -6318166863042334129
+    second: Tiles_Stone_v02_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dacc0549afa4db60800000000000000
+      internalID: 7770028398663748308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dca67b06c5a82c0800000000000000
+      internalID: -4428625713101615775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adafdc78d761dc920800000000000000
+      internalID: 3012088454185876186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e216e67e6822a39c0800000000000000
+      internalID: -3946804160633085650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12177740cfff130800000000000000
+      internalID: 3602875323033657763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c461b674d8b790800000000000000
+      internalID: -7514022372020271813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92448767e9a850de0800000000000000
+      internalID: -1367534498640018391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221bf7acbed5a4950800000000000000
+      internalID: 6434058284948238626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4da493289da1e60800000000000000
+      internalID: 7933892846896731340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1028
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e1b750acb7d0b0800000000000000
+      internalID: -5703883006189378321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa7f5e7c4b9459e0800000000000000
+      internalID: -1633510011988641034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b967f6c1e2b9f0800000000000000
+      internalID: -454052367740324780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224401c13772586f0800000000000000
+      internalID: -683096393131211742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e32dc4c853fda7f0800000000000000
+      internalID: -599555612785957913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 772
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1d503bb183cbb0800000000000000
+      internalID: -4916943727188173519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc4d2b85549cc70800000000000000
+      internalID: 8991794378281635000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d3a98c3c23caa0800000000000000
+      internalID: -6142016828284350072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7655693dd4523c550800000000000000
+      internalID: 6179824129875006823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa1cd1d81479c60800000000000000
+      internalID: 7824794951924951562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7102d3253c219ab0800000000000000
+      internalID: -5003169104286056067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c430339d67dd76e70800000000000000
+      internalID: 9108492273899995980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394695ff08bf225f0800000000000000
+      internalID: -782786853750610797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645a518e1e4e22290800000000000000
+      internalID: -7916513536051403450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143cf6ef8ddf0ef80800000000000000
+      internalID: -8079178623079169215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 260
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57dc1baf9ed5dc10800000000000000
+      internalID: 2077811580453312350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d3c1c4a8091afd0800000000000000
+      internalID: -2332424208344400557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d731d7d1c2f06e0800000000000000
+      internalID: -1869226815171363462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cb8a7a66e94df40800000000000000
+      internalID: 5752396787795672177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8399736b75d08f0800000000000000
+      internalID: -572705137477732179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_Stone_v02_29
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b7b096bc5158a0800000000000000
+      internalID: -6318166863042334129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
